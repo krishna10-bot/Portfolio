@@ -1,6 +1,6 @@
 import { profile, projects, highlights, focus } from "../data.js";
 import { Band, ProjectCard } from "../ui.jsx";
-import portrait from "../assets/QA.png";
+import portrait from "../assets/prof.png";
 
 export default function Home() {
   return (
